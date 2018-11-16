@@ -1,0 +1,5 @@
+This repository contains an updated version of John Bradley's original
+'xv' program. Since John created it this way this program is
+"SHAREWARE", free for non-commercial use, but not-free for
+professional use. The original license can be found in original-docs/.
+
