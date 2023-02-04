@@ -12,8 +12,8 @@ whatever will come up during fixes and cleanups.
 
 # PREREQUISITES
 
-libtiff5-dev
-libpng-dev
+    apt install libtiff5-dev libpng-dev libxt-dev
+
 
 # BUILDING
 
